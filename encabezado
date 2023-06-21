@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> encabezado </title>
+<head>
+<body>
+<center>
+	<h1> h1 es un aributo utilizado comunmente para marcar titulo </h1>
+</center> <center>
+	<h2>es un encabezado mas chico del h1 utilizado para subtitulos </h2>
+</center><center>
+	<h3> contiene un encabezado de nv3 </h3>
+</center>	
+</body>
+</head>
+</head>
